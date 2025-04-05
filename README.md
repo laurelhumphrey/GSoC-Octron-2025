@@ -42,20 +42,19 @@ We envision OCTRON as an extension of the ethology project within the NIU GSoC i
     * Integration of key point tracking into YOLO training (medium priority).
     * Integration of OCTRON with existing tools in the NIU codebase, like movement (see introduction above) (high priority).
 
-**Detailed Weekly Timeline:**
-| Week | Tasks             |
-|------|-------------------|
-| 0    | Community bonding |
-| 1    |                   |
-| 2    |                   |
-| 3    |                   |
-| 4    |                   |
-| 5    |                   |
-| 6    |                   |
-| 7    |                   |
-| 8    |                   |
-| 9    |                   |
-| 10   |                   |
+| Week | Task                                                                                |
+|------|-------------------------------------------------------------------------------------|
+| 0    | Community bonding. Introduce OCTRON to mentors and discuss potential improvements.  |
+| 1    | Create code documentation website. Begin bug tracking and code testing.             |
+| 2    | Curate OCTRON output.                                                               |
+| 3    | Integrate key point tracking into YOLO training.                                    |
+| 4    | Integrate OCTRON with tools in NIU codebase.                                        |
+| 5    | Add features for processing OCTRON outputs.                                         |
+| 6    | Organize the codebase and repository structure.                                     |
+| 7    | Create guidelines for new contributors.                                             |
+| 8    | Update user documentation to reflect improvements.                                  |
+| 9    | Finalize code testing, repository, and documentation website.                       |
+| 10   | Review and resolve final issues. Prepare final materials for submission.            |
 
 
 **Communication plan**
