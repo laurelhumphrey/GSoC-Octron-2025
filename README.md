@@ -1,4 +1,4 @@
-# ethology: markerless segmentation to train custom models for animal tracking (Laurel Humphrey)
+# ethology: OCTRON (Laurel Humphrey)
 
 *provide title in your pull request as a new markdown file of the same name, i.e.   `<Package Name>:<Project Name> (<Your-Name>).md` how do I do this?*
 
