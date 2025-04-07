@@ -1,7 +1,5 @@
 # ethology: OCTRON (Laurel Humphrey)
 
-*provide title in your pull request as a new markdown file of the same name, i.e.   `<Package Name>:<Project Name> (<Your-Name>).md` how do I do this?*
-
 ## Personal details
 - **Full name:** Laurel Humphrey
 - **Email:** laurelhumphrey24@gmail.com
@@ -9,13 +7,8 @@
 - **Zulip username:** Laurel Humphrey
 - **Location & time-zone:** USA (UTC-05:00)
 - **Personal website / project portfolio:** [Project OCTRON](https://github.com/horsto/OCTRON)
-- **Code contribution:** *what to put here?*
-
-    *Please link a pull request, ideally submitted to your chosen project or one of the NIU tools. Applications without a code contribution won't be considered. It must be publicly visible and represent your own work, although you may have help from other developers in the community to further improve it. It must be meaningful code contribution (i.e. not just fixing a minor spelling mistake). While AI tools (such as Copilot etc) can be a very useful, contributions mostly created by AI are unlikely to be useful, and will not be accepted. You can link more than one pull request if desired.*
-
-- **Proposal discussion link:** *what to put here?*
-
-    *Please link to the pull request where you discussed your project proposal with the community.* 
+- **Code contribution:** 
+- **Proposal discussion link:**
 
 ## Project proposal 
 
