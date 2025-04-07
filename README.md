@@ -24,17 +24,21 @@ We envision OCTRON as an extension of the ethology project within the NIU GSoC i
 
 **Minimal Deliverables:**
 
-*  Code maintainability
-    *  Structure of the repository and organization of the codebase.
-    *  Code testing (code coverage, etc.).
-    *  Contribution guidelines and onboarding for new contributors.
-*  Documentation
-    * Complete code documentation website, for example hosted on GitHub via MkDocs.
-*  Further development of core OCTRON functions, which could include:
-    * Utilities for curating OCTRON output, such as stitching/merging tracks that have been artificially separated (high priority).
-    * Analysis video generation and other useful features for processing OCTRON outputs (medium priority).
-    * Integration of key point tracking into YOLO training (medium priority).
-    * Integration of OCTRON with existing tools in the NIU codebase, like movement (see introduction above) (high priority).
+*   Code maintainability
+      *   Structure of the repository and organization of the codebase.
+      *   Code testing (code coverage, etc.).
+      *   Contribution guidelines and onboarding for new contributors.
+
+*   Documentation
+      *   Complete code documentation website, for example hosted on GitHub via MkDocs.
+      *   Usability improvements and further development
+      *   Utilities for curating OCTRON output, such as stitching/merging tracks that have been artificially separated (high priority).
+      *   Analysis video generation and other useful features for processing OCTRON outputs (medium priority).
+
+*   Stretch goals (if time allows)
+      *   Integration of key point tracking into YOLO training (medium priority).
+      *   Integration of OCTRON with existing tools in the NIU codebase, like movement (see introduction above) (high priority).
+
 
 **Weekly Timeline:**
 *   **Total Duration:** 10 weeks (~90h small project size)
