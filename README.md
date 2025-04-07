@@ -25,9 +25,6 @@ We envision OCTRON as an extension of the ethology project within the NIU GSoC i
 
 **Implementation timeline**
 
-*   **Total Duration:** 10 weeks (~90h small project size)
-*   **Estimated Weekly Hours:** 8-10 hours/week 
-
 **Minimal Deliverables:**
 
 *  Code maintainability
@@ -41,6 +38,10 @@ We envision OCTRON as an extension of the ethology project within the NIU GSoC i
     * Analysis video generation and other useful features for processing OCTRON outputs (medium priority).
     * Integration of key point tracking into YOLO training (medium priority).
     * Integration of OCTRON with existing tools in the NIU codebase, like movement (see introduction above) (high priority).
+
+**Weekly Timeline:**
+*   **Total Duration:** 10 weeks (~90h small project size)
+*   **Estimated Weekly Hours:** 8-10 hours/week
 
 | Week | Task                                                                                |
 |------|-------------------------------------------------------------------------------------|
@@ -59,7 +60,7 @@ We envision OCTRON as an extension of the ethology project within the NIU GSoC i
 
 **Communication plan**
 
-I am flexible to communicate with my mentor regularly as needed through meeting updates and chats.
+I am flexible to communicate with my mentor regularly as needed. Weekly video call meetings would be helpful to give progress updates as I move through my deliverables and to ask questions on areas where I need more guidance. I will also be available via Zulip chat to ask for troubleshooting help and work through errors as needed throughout the week.
 
 ## Personal statement
 
@@ -71,8 +72,8 @@ My past programming experience includes using Linux, high-performance computing,
    
 **Motivation: why this project?**
 
-I am interested in this project to create an alternative to existing key point tracking algorithms and provide a resource for various researchers to further study animal behavior tracking. I was drawn to Horst's research goals of tracking octopus sleep patterns through video data and how this napari plugin could improve the efficiency and effectiveness of his resarch as well as the research of others in the open source community. This opportunity relates to my own goals of exploratoring research on marine animal behaviors as well as developing my bioinformatics skillset through open source code development and refinement.
-    
+I am interested in this project to create an alternative to existing key point tracking algorithms and provide a resource for various researchers to further study animal behavior tracking. I was drawn to Horst's research goals of tracking octopus sleep patterns through video data and how this napari plugin could improve the efficiency and effectiveness of his research as well as the research of others in the open source community. This opportunity relates to my own goals of exploratory research on marine animal behaviors as well as developing my bioinformatics skillset through open source code development and refinement.
+
 **Match: why you?**
 
 My experience with testing OCTRON so far on various datasets, previous computational biology background, and passion for the project make me a good fit for this opportunity. Through this project and others I have gained skills in troubleshooting errors, building code, improving user experience and accessibility which I hope to build upon by bringing this new tool to the GSoC community.
