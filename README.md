@@ -21,7 +21,7 @@ We envision OCTRON as an extension of the ethology project within the NIU GSoC i
 
 **Implementation timeline**
 
-**Minimal Deliverables:**
+**Minimal deliverables:**
 
 *   Code maintainability
       *   Structure of the repository and organization of the codebase.
@@ -39,9 +39,9 @@ We envision OCTRON as an extension of the ethology project within the NIU GSoC i
       *   Integration of OCTRON with existing tools in the NIU codebase, like movement (see introduction above) (high priority).
 
 
-**Weekly Timeline:**
-*   **Total Duration:** 10 weeks (~90h small project size)
-*   **Estimated Weekly Hours:** 8-10 hours/week
+**Weekly timeline:**
+*   **Total duration:** 10 weeks (~90h small project size)
+*   **Estimated weekly hours:** 8-10 hours/week
 
 | Week | Task                                                                                |
 |------|-------------------------------------------------------------------------------------|
