@@ -72,7 +72,7 @@ My past programming experience includes using Linux, high-performance computing,
    
 **Motivation: why this project?**
 
-I am interested in this project because I believe OCTRON will be a valuable alternative to existing key point tracking algorithms and a resource for various scientists to further study animal behavior tracking. I was drawn to Horst's research goals of tracking octopus sleep patterns through video data and how this napari plugin could improve the efficiency and effectiveness of his research as well as the research of others in the open source community. This opportunity relates to my own goals of exploratory research on marine animal behaviors as well as developing my bioinformatics skills through open source code development and refinement.
+I am interested in this project because I believe OCTRON will be a valuable alternative to existing key point tracking algorithms and a resource for various scientists to further study animal behavior tracking. I was drawn to Horst's research goals of tracking octopus sleep patterns through video data and how this napari plugin could improve the efficiency and effectiveness of his research, as well as the research of others in the open source community. This opportunity relates to my own goals of exploratory research on marine animal behaviors, while also developing my bioinformatics skills through open source code development and refinement.
 
 **Match: why you?**
 
